@@ -1,3 +1,6 @@
+> **Team subsystem archive:** this fork preserves the computer-vision component of an NTU Multidisciplinary Design Project. The default-branch history is authored by the upstream team; this copy is retained for learning and project context rather than claimed as an independently authored implementation.
+
+
 # MDP Computer Vision
 
 Computer vision and image recognition portion of the MDP project.
